@@ -4,6 +4,12 @@
 <img src="https://i.gifer.com/JXA0.gif">
 </p>
 
+### 👩‍💻 &nbsp; A Few Thicks About Me :) 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science.\
+🌱 &nbsp;I'm on track for learning more about Graphic Design,UI-Ux Design, and Web Development.\
+✍️ &nbsp;In my free time, I Am Watching Cartoons.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
